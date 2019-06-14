@@ -1,0 +1,26 @@
+
+/**
+* override css's
+*/
+
+.bg-light {
+    background-color: #c4cad0!important;
+}
+
+
+
+.main_content{
+	margin-top: 20px;
+	background-color: #f8f9fa!important;
+	height: 500px;
+}
+
+.footer-bottom{
+	padding: 20px;
+	margin-top: 20px;
+	background-color: #c4cad0;
+}
+
+.purchase_form{
+	background-color: gray;
+}
